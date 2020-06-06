@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/PairIt/static/js/main.6ea7140c.chunk.js",
-    "main.js.map": "/PairIt/static/js/main.6ea7140c.chunk.js.map",
-    "runtime-main.js": "/PairIt/static/js/runtime-main.a384b68f.js",
-    "runtime-main.js.map": "/PairIt/static/js/runtime-main.a384b68f.js.map",
-    "static/js/2.cb023848.chunk.js": "/PairIt/static/js/2.cb023848.chunk.js",
-    "static/js/2.cb023848.chunk.js.map": "/PairIt/static/js/2.cb023848.chunk.js.map",
-    "index.html": "/PairIt/index.html",
-    "precache-manifest.0b28f85cc4846614c31819243a1ad8f6.js": "/PairIt/precache-manifest.0b28f85cc4846614c31819243a1ad8f6.js",
-    "service-worker.js": "/PairIt/service-worker.js",
-    "static/js/2.cb023848.chunk.js.LICENSE.txt": "/PairIt/static/js/2.cb023848.chunk.js.LICENSE.txt"
+    "main.js": "/Tharsanan1/PairIt/static/js/main.f867929c.chunk.js",
+    "main.js.map": "/Tharsanan1/PairIt/static/js/main.f867929c.chunk.js.map",
+    "runtime-main.js": "/Tharsanan1/PairIt/static/js/runtime-main.147aae31.js",
+    "runtime-main.js.map": "/Tharsanan1/PairIt/static/js/runtime-main.147aae31.js.map",
+    "static/js/2.cb023848.chunk.js": "/Tharsanan1/PairIt/static/js/2.cb023848.chunk.js",
+    "static/js/2.cb023848.chunk.js.map": "/Tharsanan1/PairIt/static/js/2.cb023848.chunk.js.map",
+    "index.html": "/Tharsanan1/PairIt/index.html",
+    "precache-manifest.a8c1ca1d6f3f0ee28d37de0b78b53e14.js": "/Tharsanan1/PairIt/precache-manifest.a8c1ca1d6f3f0ee28d37de0b78b53e14.js",
+    "service-worker.js": "/Tharsanan1/PairIt/service-worker.js",
+    "static/js/2.cb023848.chunk.js.LICENSE.txt": "/Tharsanan1/PairIt/static/js/2.cb023848.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a384b68f.js",
+    "static/js/runtime-main.147aae31.js",
     "static/js/2.cb023848.chunk.js",
-    "static/js/main.6ea7140c.chunk.js"
+    "static/js/main.f867929c.chunk.js"
   ]
 }
